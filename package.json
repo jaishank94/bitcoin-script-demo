@@ -1,0 +1,24 @@
+{
+  "name": "bitcoin-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.18.6",
+    "@oipwg/hdmw": "^2.0.0",
+    "axios": "^0.27.2",
+    "bip32": "^3.0.1",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.0.1",
+    "bitcore-explorers": "^1.0.1",
+    "bitcore-lib": "^8.25.30",
+    "tiny-secp256k1": "^2.2.1",
+    "zeromq": "^5.2.8"
+  }
+}
